@@ -3,6 +3,17 @@
 A new Flutter application.
 
  <img src="/Snapshots/Capture+_2020-12-24-14-22-31.png">
+ <br>
+ <img src="/Snapshots/Capture+_2020-12-24-14-22-56.png">
+ <br>
+ <img src="/Snapshots/Capture+_2020-12-24-14-23-06.png">
+ <br>
+ <img src="/Snapshots/Capture+_2020-12-24-14-23-28.png">
+ <br>
+ <img src="/Snapshots/Capture+_2020-12-24-14-23-34.png">
+ <br>
+ <img src="/Snapshots/Capture+_2020-12-24-14-23-47.png">
+ <br>
 
 ## Getting Started
 
